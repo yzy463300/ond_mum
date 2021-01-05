@@ -12,7 +12,7 @@
     "build": "node build/build.js --watch"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "less": "^3.0.4",
     "less-loader": "^4.1.0",
     "vant": "^1.6.20",
